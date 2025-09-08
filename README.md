@@ -1,0 +1,2 @@
+# paypay-to-moneyforward
+paypayで支払った履歴をmoneyforwardに自動で登録する
